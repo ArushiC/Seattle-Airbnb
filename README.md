@@ -10,9 +10,9 @@ The data has been taken from Kaggle:
 https://www.kaggle.com/airbnb/seattle
 
 The data set has 3 main datasets:
-Calendar: Shows the availability of each listing through out the year along with the listed price per night
-Listings: Has all the listings along with the host and house details
-Reviews: List the reviews each hosts has receieved for all their previous hostings
+- Calendar: Shows the availability of each listing through out the year along with the listed price per night
+- Listings: Has all the listings along with the host and house details
+- Reviews: List the reviews each hosts has receieved for all their previous hostings
 
 # Business questions we are trying to answer from this analyses:
 - How and why does price of the house vary through out the year?
